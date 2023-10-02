@@ -1,0 +1,50 @@
+D:\BTL\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.dll.config
+D:\BTL\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.dll
+D:\BTL\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.pdb
+D:\BTL\ShopQuanAo\ShopQuanAo\bin\AjaxControlToolkit.pdb
+D:\BTL\ShopQuanAo\ShopQuanAo\bin\ar\AjaxControlToolkit.resources.dll
+D:\BTL\ShopQuanAo\ShopQuanAo\bin\cs\AjaxControlToolkit.resources.dll
+D:\BTL\ShopQuanAo\ShopQuanAo\bin\de\AjaxControlToolkit.resources.dll
+D:\BTL\ShopQuanAo\ShopQuanAo\bin\es\AjaxControlToolkit.resources.dll
+D:\BTL\ShopQuanAo\ShopQuanAo\bin\fr\AjaxControlToolkit.resources.dll
+D:\BTL\ShopQuanAo\ShopQuanAo\bin\he\AjaxControlToolkit.resources.dll
+D:\BTL\ShopQuanAo\ShopQuanAo\bin\hi\AjaxControlToolkit.resources.dll
+D:\BTL\ShopQuanAo\ShopQuanAo\bin\it\AjaxControlToolkit.resources.dll
+D:\BTL\ShopQuanAo\ShopQuanAo\bin\ja\AjaxControlToolkit.resources.dll
+D:\BTL\ShopQuanAo\ShopQuanAo\bin\ko\AjaxControlToolkit.resources.dll
+D:\BTL\ShopQuanAo\ShopQuanAo\bin\nl\AjaxControlToolkit.resources.dll
+D:\BTL\ShopQuanAo\ShopQuanAo\bin\pt\AjaxControlToolkit.resources.dll
+D:\BTL\ShopQuanAo\ShopQuanAo\bin\ru\AjaxControlToolkit.resources.dll
+D:\BTL\ShopQuanAo\ShopQuanAo\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\BTL\ShopQuanAo\ShopQuanAo\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\BTL\ShopQuanAo\ShopQuanAo\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\BTL\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.AssemblyReference.cache
+D:\BTL\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.CoreCompileInputs.cache
+D:\BTL\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.CopyComplete
+D:\BTL\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.dll
+D:\BTL\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.pdb
+C:\Users\Nguyen Tuan\Downloads\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.dll.config
+C:\Users\Nguyen Tuan\Downloads\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.dll
+C:\Users\Nguyen Tuan\Downloads\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.pdb
+C:\Users\Nguyen Tuan\Downloads\ShopQuanAo\ShopQuanAo\bin\AjaxControlToolkit.pdb
+C:\Users\Nguyen Tuan\Downloads\ShopQuanAo\ShopQuanAo\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Nguyen Tuan\Downloads\ShopQuanAo\ShopQuanAo\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Nguyen Tuan\Downloads\ShopQuanAo\ShopQuanAo\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Nguyen Tuan\Downloads\ShopQuanAo\ShopQuanAo\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Nguyen Tuan\Downloads\ShopQuanAo\ShopQuanAo\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Nguyen Tuan\Downloads\ShopQuanAo\ShopQuanAo\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Nguyen Tuan\Downloads\ShopQuanAo\ShopQuanAo\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Nguyen Tuan\Downloads\ShopQuanAo\ShopQuanAo\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Nguyen Tuan\Downloads\ShopQuanAo\ShopQuanAo\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Nguyen Tuan\Downloads\ShopQuanAo\ShopQuanAo\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Nguyen Tuan\Downloads\ShopQuanAo\ShopQuanAo\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Nguyen Tuan\Downloads\ShopQuanAo\ShopQuanAo\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Nguyen Tuan\Downloads\ShopQuanAo\ShopQuanAo\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Nguyen Tuan\Downloads\ShopQuanAo\ShopQuanAo\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Nguyen Tuan\Downloads\ShopQuanAo\ShopQuanAo\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Nguyen Tuan\Downloads\ShopQuanAo\ShopQuanAo\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Nguyen Tuan\Downloads\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.AssemblyReference.cache
+C:\Users\Nguyen Tuan\Downloads\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Tuan\Downloads\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.CopyComplete
+C:\Users\Nguyen Tuan\Downloads\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.dll
+C:\Users\Nguyen Tuan\Downloads\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.pdb
